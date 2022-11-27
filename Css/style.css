@@ -170,7 +170,15 @@ nav {
 }
 
 .about .myImg{
-    background-image: url('https://avatars.githubusercontent.com/u/90146483?v=4');
+    background-image: url('https://scontent.famd7-1.fna.fbcdn.net/v/t39.30808-6/314999001_3261779817472526_9208985339311340585_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=qHVhwpZr8rwAX9QwOuW&_nc_ht=scontent.famd7-1.fna&oh=00_AfDz6abQDesZUcsNg0KkKCalF8oSPdl0gFGoAm3SZ5JRiw&oe=63875E9A');
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 400px;
+    background-position-x: center;
+    border: 1rem solid orange;
+}
+.about .org{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuquQc5PibdsZB5Y7SfDtS8KxGREJK78-71Q&usqp=CAU');
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 400px;
